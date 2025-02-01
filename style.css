@@ -141,8 +141,9 @@ input:focus, textarea:focus {
 /* Footer */
 
 footer {
+    display: flex;
+    text-align: center;
     background-color: #182C61;
     color: #ecf0f1;
     padding: 16px 0;
 }
-
