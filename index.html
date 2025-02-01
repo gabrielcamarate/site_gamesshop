@@ -44,24 +44,24 @@
             </div>
         </div>  
     </section>
-    <section>
+    <section id="contact">
         <div class="container">
             <h2>Contato</h2>
-
-            <div>
+            <div class="contact-methods">
                 <div>
                     <h3>Fale conosco</h3>
                     <form>
-                        <input type="text" id="name" placeholder="Seu nome">
-                        <input type="email" id="email" placeholder="Seu e-mail">     
+                        <input type="text" id="name" placeholder="Seu nome" required>
+                        <input type="email" id="email" placeholder="Seu e-mail" required>     
                         <input type="tel" id="phone" placeholder="Seu telefone (opcional)">                   
-                        <textarea id="message" placeholder="Sua mensagem"></textarea>
+                        <textarea id="message" placeholder="Sua mensagem" required></textarea>
+                        <button type="submit">Enviar</button>
                     </form>
                 </div>
 
                 <div>
                     <h3>Nos acompanhe</h3>
-                    <ul>
+                    <ul class="social-links">
                         <li>
                             <a href="#" title="Siga-nos no Facebook">
                                 <img src="images/facebook.png" alt="Logo do Facebook">
@@ -85,12 +85,19 @@
                 <div>
                     <h3>Venha até nós</h3>
                     <p>
-                        Rua dos Games n° 123, Bairro dos Consoles - Rio de Janeiro - RJ
+                        Rua dos Games n° 2075, Grajaú - Rio de Janeiro - RJ
                     </p>
                 </div>
 
             </div>
         </div>
     </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 - Games Shop</p>
+        </div>
+    </footer>
+
 </body>
 </html>
