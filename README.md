@@ -1,6 +1,6 @@
 # 🎮 Games Shop - Landing Page  
 
-[🇺🇸 English Version](https://github.com/gabrielcamarate/site_gamesshop/README.md) | [🇧🇷 Versão em Português](https://github.com/gabrielcamarate/site_gamesshop/PT-BR-README.md)
+[🇺🇸 English Version](https://github.com/gabrielcamarate/site_gamesshop/README.md) | [🇧🇷 Versão em Português](https://github.com/gabrielcamarate/site_gamesshop/tree/main/PT-BR-README.md)
 
 ---
 
