@@ -4,7 +4,7 @@
 
 ---
 
-![Games Shop](images/previw.jpg)  
+![Games Shop](images/previw.png)  
 
 Uma landing page para uma loja fictícia de games, desenvolvida como exercício de **HTML** e **CSS**.  
 
