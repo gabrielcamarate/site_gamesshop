@@ -6,7 +6,7 @@
 
 ## 🎮 Games Shop - Landing Page  
 
-![Games Shop](images/loja.jpg)  
+![Games Shop](images/previw.png)  
 
 A landing page for a fictional game store, developed as an **HTML** and **CSS** training project.  
 
